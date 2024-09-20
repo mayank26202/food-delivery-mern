@@ -1,5 +1,5 @@
 .navbar {
-    padding: 20px 0px;
+    padding: 21px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -46,12 +46,10 @@
 .navbar li {
     cursor: pointer;
 }
-
 .navbar-search-icon {
     position: relative;
 
 }
-
 .navbar-search-icon .dot {
     position: absolute;
     min-width: 10px;
